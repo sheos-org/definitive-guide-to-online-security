@@ -361,9 +361,10 @@ If in doubt, hotspot to your mobile phone.
 
 | Good for secure conversations | Okay for normal use | NOT Okay           |
 |-------------------------------|---------------------|--------------------|
-| Signal                        | Whatsapp            | Facebook Messenger |
-| Telegram private chat         | Slack               | Twitter DMs        |
-| WeChat                        | Skype               | Instagram DMs      |
+| Sense Chat                    | Whatsapp            | Facebook Messenger |
+| Signal                        | Slack               | Twitter DMs        |
+| Telegram private chat         | Skype               | Instagram DMs      |
+| Wikr                          | WeCha               | SMS                |
 
 ##### 2.13.  Credit Cards
 
