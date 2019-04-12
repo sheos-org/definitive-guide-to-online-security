@@ -1,5 +1,5 @@
 
-# B Security Memo
+# Security Memo
 
 ![](https://i.imgur.com/IIgvADU.png)
 
