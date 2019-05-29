@@ -157,6 +157,8 @@ leave laptops in a bag in the corner of a conference room / meetup / bar.
 
 Use FindMyiPhone or equivalent so that if you lose your device you can (a) see where it is and (b) remote wipe the data:  Settings > Accounts & Passwords > iCloud > Find My iPhone.
 
+* If you have remote wiping enabled and someone gains access to your iCloud, then they will be able to wipe your devices remotely. Please make sure your iCloud is secured correctly and not attached to your cell phone number! 
+
 ##### 1.3.  Who can see your devices?
 
 I once sat on a plane next to a competitor in an M&A deal. By the end of the
